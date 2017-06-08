@@ -25,7 +25,6 @@ Imports:
     RandomFields,
     RandomFieldsUtils,
     shape,
-    devtools,
     mixtools,
     sp,
     maps,
